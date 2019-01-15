@@ -1,5 +1,5 @@
 {
-    "name": "inerziasoft/php-traditional-server",
+    "name": "aarpon/php-traditional-server",
     "description": "Endpoint handler for Fine Uploader's traditional server requests. Born from the ashes of the original FineUploader project.",
     "license": "MIT"
 }
